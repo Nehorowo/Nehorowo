@@ -5,4 +5,4 @@
 
 My pet projects:
 
-[Mini social network](nehorowo.github.io/react-social-network/)
+[Mini social network](https://nehorowo.github.io/react-social-network/)
