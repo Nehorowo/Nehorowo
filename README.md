@@ -1,3 +1,6 @@
+Welcome!
+![](https://komarev.com/ghpvc/?username=Nehorowo&color=blueviolet)
+
 - 👋 Hi, I’m @Nehorowo, frontend and solidity developer.
 - 👀 I’m interested in blockchains, cryptos and frontend.
 - 🌱 I’m currently learning React, Node.js and Solidity.
