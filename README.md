@@ -9,4 +9,5 @@ Welcome!
 My pet projects:
 
 [Mini social network](https://nehorowo.github.io/react-social-network/)
+
 [React pizza](https://react-pizza-shop111.herokuapp.com/)
