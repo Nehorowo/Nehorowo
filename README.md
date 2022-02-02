@@ -8,6 +8,10 @@ Welcome!
 
 My pet projects:
 
-[React pizza](https://react-pizza-shop111.herokuapp.com/)
+[Password Generator](https://ezpassw.netlify.app)
 
 [Random Joke Generator](https://getajoke.netlify.app)
+
+[React pizza](https://react-pizza-shop111.herokuapp.com/)
+
+
