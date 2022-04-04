@@ -14,4 +14,5 @@ My pet projects:
 
 [React pizza](https://react-pizza-shop111.herokuapp.com/)
 
+[Alfa Bank Test](https://nehorowo.github.io/animals-react-redux/)
 
