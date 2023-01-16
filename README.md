@@ -4,7 +4,7 @@ Welcome!
 - 👋 Hi, I’m @Nehorowo, frontend developer.
 - 👀 I’m interested in blockchains, cryptos and frontend.
 - 🌱 I’m currently work with React, Redux and Node.js.
-- 💞️ I’m looking to collaborate on every interesting projects, you can dm me on Telegram @gikifreaky
+- 💞️ I’m looking to collaborate on every interesting projects, you can dm me on Telegram @russiananomaly
 
 My pet projects:
 
