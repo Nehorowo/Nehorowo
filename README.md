@@ -8,6 +8,8 @@ Welcome!
 
 My pet projects:
 
+[Issue Tracker](https://issue-tracker-three-flax.vercel.app)
+
 [Password Generator](https://ezpassw.netlify.app)
 
 [Random Joke Generator](https://getajoke.netlify.app)
